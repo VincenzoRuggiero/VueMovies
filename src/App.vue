@@ -5,7 +5,7 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
   <header>
     <router-link to="/">
-      <h1><span>Vue</span>Movies</h1>
+      <h1><span>Vue</span>Movies&Shows</h1>
     </router-link>
   </header>
   <main>
