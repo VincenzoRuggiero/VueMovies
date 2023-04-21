@@ -1,35 +1,9 @@
-# .
 
-This template should help get you started developing with Vue 3 in Vite.
+# Vue Movies & Shows
 
-## Recommended IDE Setup
+It's a mobile app that allows users to search for a Movie or a Tv Show and see the year that the content was released, the type and the description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Screenshots
 
-## Customize configuration
+![App Screenshot](https://i.postimg.cc/0Q14JRVg/Vue-Moviesand-Shows.png)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
